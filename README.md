@@ -2,8 +2,8 @@
 
 | 날짜        | 학습 내용                                                                                               | DW 학습 링크        | ssaid 학습 링크    |
 |-------------|------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| 2024-12-27 | [빅오 표기법](https://github.com/trekhleb/javascript-algorithms#big-o-notation), [검색 알고리즘(선형, 이진 탐색)](https://github.com/trekhleb/javascript-algorithms#searching-algorithms) | [링크 추가](#)      | [빅오 표기법](https://github.com/swywssaid/TIL/blob/main/algorithm/algorithm-efficiency.md), [검색 알고리즘(선형, 이진 탐색)](https://github.com/swywssaid/TIL/blob/main/algorithm/searching-algorithm.md) |
-| 2024-12-28 | [버블 정렬](https://github.com/trekhleb/javascript-algorithms#bubble-sort)                               | [링크 추가](#)      | [링크 추가](#)    |
+| 2024-12-27 | [빅오 표기법](https://github.com/trekhleb/javascript-algorithms#big-o-notation), 검색 알고리즘([선형 탐색](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/search/linear-search), [이진 탐색](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/search/binary-search)) | [링크 추가](#)      | [빅오 표기법](https://github.com/swywssaid/TIL/blob/main/algorithm/algorithm-efficiency.md), [검색 알고리즘(선형, 이진 탐색)](https://github.com/swywssaid/TIL/blob/main/algorithm/searching-algorithm.md) |
+| 2024-12-28 | [버블 정렬](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/sorting/bubble-sort)                               | [링크 추가](#)      | [링크 추가](#)    |
 | 2024-12-29 | [선택 정렬](https://github.com/trekhleb/javascript-algorithms#selection-sort)                           | [링크 추가](#)      | [링크 추가](#)    |
 | 2024-12-30 | [삽입 정렬](https://github.com/trekhleb/javascript-algorithms#insertion-sort)                           | [링크 추가](#)      | [링크 추가](#)    |
 | 2024-12-31 | [버블, 선택, 삽입 정렬 비교](https://github.com/trekhleb/javascript-algorithms#comparison-of-sorting-algorithms) | [링크 추가](#)      | [링크 추가](#)    |
