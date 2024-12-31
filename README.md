@@ -1,6 +1,6 @@
 # Plan
 
-| 날짜        | 학습 내용                                                                                               | DW 학습 링크        | ssaid 학습 링크    | xxeonge 학습 링크   |
+| 날짜        | 학습 내용                                                                                               | DW         | ssaid    | xxeonge    |
 |-------------|------------------------------------------------------------------------------------------------------|---------------------|-------------------|-------------------|
 | 2024-12-27 | [빅오 표기법](https://github.com/trekhleb/javascript-algorithms#big-o-notation), 검색 알고리즘([선형 탐색](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/search/linear-search), [이진 탐색](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/search/binary-search)) | [빅오 표기법](https://river-blinker-42t.notion.site/16a2615bcc3080129a73c260bd2f4b1f?pvs=4), [검색 알고리즘(선형, 이진 탐색)](https://www.notion.so/river-blinker-42t/16a2615bcc3080899771c4fa8a422442)      | [빅오 표기법](https://github.com/swywssaid/TIL/blob/main/algorithm/algorithm-efficiency.md), [검색 알고리즘(선형, 이진 탐색)](https://github.com/swywssaid/TIL/blob/main/algorithm/searching-algorithm.md) | [링크 추가](#)    |
 | 2024-12-28 | [버블 정렬](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/sorting/bubble-sort)                               | [버블 정렬](https://river-blinker-42t.notion.site/16a2615bcc308095a20dc876737229fa?pvs=74)      | [버블 정렬](https://github.com/swywssaid/TIL/blob/main/algorithm/bubble-sort.md)    | [링크 추가](#)    |
