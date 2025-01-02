@@ -33,3 +33,5 @@
 [커러큘럼](https://www.udemy.com/course/best-javascript-data-structures/?couponCode=ST12MT122624)
 </br>
 [알고리즘](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
+</br>
+[알고리즘 시각화 영상](https://www.youtube.com/watch?v=kPRA0W1kECg)
