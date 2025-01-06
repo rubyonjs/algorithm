@@ -10,17 +10,17 @@
 | 2024-01-01 | [합병 정렬](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/sorting/merge-sort)                               | [합병 정렬](https://www.notion.so/river-blinker-42t/Merge-Sort-1712615bcc3080ad9703db9b5ff917b5)     | [합병 정렬](https://github.com/swywssaid/TIL/blob/main/algorithm/merge-sort/sorting/merge-sort.md)    |     |
 | 2024-01-02 | [퀵 정렬](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/sorting/quick-sort)                                 | [퀵 정렬](https://www.notion.so/river-blinker-42t/1712615bcc30801598efde9e5ec87c17)      | [퀵 정렬](https://github.com/swywssaid/TIL/blob/main/algorithm/sorting/quick-sort/quick-sort.md)    |     |
 | 2024-01-03 | [기수 정렬](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/sorting/radix-sort)                               |  [계수 정렬](https://www.notion.so/river-blinker-42t/Counting-Sort-1722615bcc3080af95b2fa2c3f09514d), [기수 정렬](https://www.notion.so/river-blinker-42t/Radix-Sort-1722615bcc30809a93abd5332ccde6a6)     | [기수 정렬](https://github.com/swywssaid/TIL/tree/main/algorithm/sorting/radix-sort)    |     |
-| 2024-01-04 | [단일 연결 리스트](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/linked-list)                      |       |     |     |
-| 2024-01-05 | [이중 연결 리스트](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/doubly-linked-list)               |       |     |     |
-| 2024-01-06 | [스택(Stacks)](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/stack) + [큐(Queues)](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/queue) |       |     |     |
-| 2024-01-07 | [이진 검색 트리](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/tree/binary-search-tree)                 |       |     |     |
-| 2024-01-08 | [트리 순회([DFS](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/tree/depth-first-search), [BFS](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/tree/breadth-first-search)]                      |       |     |     |
-| 2024-01-09 | [이진 힙 (Binary Heaps)](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/heap)                       |       |     |     |
-| 2024-01-10 | [해시 테이블](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/hash-table)                            |       |     |     |
-| 2024-01-11 | [그래프 (Graphs)](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/graph)                             |       |     |     |
-| 2024-01-12 | [그래프 순회([DFS](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/graph/depth-first-search), [BFS](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/graph/breadth-first-search)]                     |       |     |     |
-| 2024-01-13 | [다익스트라 알고리즘](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/graph/dijkstra)            |       |     |     |
-| 2024-01-14 | [동적 프로그래밍](https://github.com/trekhleb/javascript-algorithms#dynamic-programming)              |       |     |     |
+| 2024-01-06 | [단일 연결 리스트](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/linked-list)                      |       |     |     |
+| 2024-01-07 | [이중 연결 리스트](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/doubly-linked-list)               |       |     |     |
+| 2024-01-08 | [스택(Stacks)](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/stack) + [큐(Queues)](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/queue) |       |     |     |
+| 2024-01-09 | [이진 검색 트리](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/tree/binary-search-tree)                 |       |     |     |
+| 2024-01-10 | [트리 순회([DFS](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/tree/depth-first-search), [BFS](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/tree/breadth-first-search)]                      |       |     |     |
+| 2024-01-13 | [이진 힙 (Binary Heaps)](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/heap)                       |       |     |     |
+| 2024-01-14 | [해시 테이블](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/hash-table)                            |       |     |     |
+| 2024-01-15 | [그래프 (Graphs)](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/graph)                             |       |     |     |
+| 2024-01-16 | [그래프 순회([DFS](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/graph/depth-first-search), [BFS](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/graph/breadth-first-search)]                     |       |     |     |
+| 2024-01-17 | [다익스트라 알고리즘](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/graph/dijkstra)            |       |     |     |
+| 2024-01-20 | [동적 프로그래밍](https://github.com/trekhleb/javascript-algorithms#dynamic-programming)              |       |     |     |
 
 
 
